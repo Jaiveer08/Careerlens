@@ -82,7 +82,7 @@ with st.sidebar:
     analyze_btn = st.button("🚀 Run Analysis", use_container_width=True, type="primary")
     
     st.markdown("---")
-    st.caption("© 2025 CareerLens| Crafted by REXA")
+    st.caption("© 2026 CareerLens| Crafted by REXA")
 
 # ---------------- Main Logic ----------------
 def process_resume():
