@@ -1,0 +1,75 @@
+{
+  "Frontend Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Git"
+  ],
+  "Backend Developer": [
+    "Python",
+    "SQL",
+    "APIs",
+    "Django",
+    "Git"
+  ],
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Python",
+    "APIs",
+    "SQL",
+    "Git"
+  ],
+  "Python Developer": [
+    "Python",
+    "OOP",
+    "SQL",
+    "Flask",
+    "Git"
+  ],
+  "Java Developer": [
+    "Java",
+    "OOP",
+    "Spring",
+    "SQL",
+    "Git"
+  ],
+  "Data Analyst": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Statistics"
+  ],
+  "Data Scientist": [
+    "Python",
+    "Machine Learning",
+    "Statistics",
+    "Pandas",
+    "NumPy"
+  ],
+  "DevOps Engineer": [
+    "Linux",
+    "Docker",
+    "CI/CD",
+    "AWS",
+    "Git"
+  ],
+  "UI/UX Designer": [
+    "Figma",
+    "Wireframing",
+    "Prototyping",
+    "UX Research",
+    "Design Systems"
+  ],
+  "QA Engineer": [
+    "Manual Testing",
+    "Test Cases",
+    "Selenium",
+    "Bug Tracking",
+    "Agile"
+  ]
+}
